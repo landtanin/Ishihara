@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="times1">
+
+
+        <item>3</item>
+        <item>33</item>
+        <item>88</item>
+        <item>ไม่มีข้อถูก</item>
+    </string-array>
+    <string-array name="times2">
+
+        <item>3</item>
+        <item>5</item>
+        <item>88</item>
+        <item>ไม่มีข้อถูก</item>
+    </string-array>
+    <string-array name="times3">
+
+
+        <item>3</item>
+        <item>33</item>
+        <item>6</item>
+        <item>ไม่มีข้อถูก</item>
+    </string-array>
+    <string-array name="times4">
+
+
+        <item>12</item>
+        <item>33</item>
+        <item>88</item>
+        <item>ไม่มีข้อถูก</item>
+    </string-array>
+    <string-array name="times5">
+
+
+        <item>3</item>
+        <item>29</item>
+        <item>88</item>
+        <item>ไม่มีข้อถูก</item>
+    </string-array>
+    <string-array name="times6">
+
+
+        <item>3</item>
+        <item>33</item>
+        <item>45</item>
+        <item>ไม่มีข้อถูก</item>
+    </string-array>
+    <string-array name="times7">
+
+
+        <item>74</item>
+        <item>33</item>
+        <item>88</item>
+        <item>ไม่มีข้อถูก</item>
+    </string-array>
+    <string-array name="times8">
+
+
+        <item>3</item>
+        <item>42</item>
+        <item>88</item>
+        <item>ไม่มีข้อถูก</item>
+    </string-array>
+    <string-array name="times9">
+
+
+        <item>3</item>
+        <item>33</item>
+        <item>88</item>
+        <item>ไม่มีข้อถูก</item>
+    </string-array>
+    <string-array name="times10">
+
+
+        <item>3</item>
+        <item>33</item>
+        <item>88</item>
+        <item>ไม่มีข้อถูก</item>
+    </string-array>
+
+</resources>
